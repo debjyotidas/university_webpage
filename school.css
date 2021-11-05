@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg_cont {
+    background-image: url("https://image.freepik.com/free-photo/think-outside-box-school_36051-523.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.pic {
+    height: 60px;
+    width: 80px;
+}
+
+.nav_words {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.head {
+    color: #f2a35a;
+    font-size: 90px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.para {
+    color: #f2a35a;
+    font-size: 35px;
+
+}
+
+.first {
+    color: #a7bac7;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.submit {
+    color: #a7bac7;
+    font-weight: bold;
+    font-size: 20px;
+    width: 190px;
+    text-align: center;
+     border-width: 2px;
+     border-color:#f2a35a;
+}
+
+.btn1 {
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    border-color: #a7bac7;
+    border-width: 2px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn2 {
+    height: 50px;
+    width: 150px;
+    background-color: #a7bac7;
+    font-size: 15px;
+    border-radius: 25px;
+    border-color: #a7bac7;
+    border-width: 2px;
+    font-weight: bold;
+
+}
+
+.adm_btns {
+    padding-top: 80px;
+    text-align: center;
+
+}
+
+.sign_in {
+    border-color: #FFDDA9;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 20px;
+}
